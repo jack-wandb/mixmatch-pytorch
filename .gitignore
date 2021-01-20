@@ -1,0 +1,14 @@
+# W&B logging
+wandb/
+
+# Dataset
+dataset/
+
+# Models
+models/
+
+# Results
+result/
+
+# Pycache
+eval/__pycache__/
